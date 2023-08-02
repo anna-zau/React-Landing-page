@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Winter Garden House",
+    "price": "47 038",
+    "details": "5 Hunters Dr, Stoke-on-Trent ST4 5ED, Great Britain",
+    "image": "https://i1.wp.com/decorwind.ru/wp-content/uploads/2014/03/english-house_07.jpg"
+  },
+  {
+    "name": "Rose Garden House",
+    "price": "56 087",
+    "details": "6 Heynes Walk, Allesley, Coventry CV5 9BZ, Great Britain",
+    "image": "https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/ac/fa/d7307e4758d338f0fd6418a748bfb052a1bb/Screen-Shot-2023-05-23-at-12.20.32/_w1700.png"
+  },
+  {
+    "name": "Grand Rivvero House",
+    "price": "80 459",
+    "details": "9 Parsonage Ct, Portishead, Bristol BS20 6PH, Great Britain",
+    "image": "https://dam-assets.au.reastatic.net/images/w_2000,h_1500/v1666226657/news-lifestyle-content-assets/wp-content/production/image-10_787815ed2d9/image-10_787815ed2d9.jpg?_i=AA"
+  },
+  {
+    "name": "Lovely French Cottage",
+    "price": "98 725",
+    "details": "2 Parc des 2 Moulins, 27240 Sylvains-les-Moulins, France",
+    "image": "https://i.pinimg.com/736x/41/33/92/4133925d1c3832ea4c4197f237787a75--french-cottage-cottages.jpg"
+  },
+  {
+    "name": "British Cottage",
+    "price": "105 975",
+    "details": "2 Town Gate Cottages, Threlkeld, Keswick CA12 4RX, Great Britain",
+    "image": "https://files.holidaycottages.co.uk/FCImages/84473/12_807_Grove-Cottage_Website-22.jpg"
+  },
+  {
+    "name": "American South Cottage",
+    "price": "325 000",
+    "details": "674 Princess Anne Rd, Virginia Beach, VA 23457, USA",
+    "image": "https://www.thespruce.com/thmb/7ZIT_kobcPaFina2LpAoWNb3stE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20191003_MGD_457-3aed43de1127493dac755f8d3bfa895b.jpg"
+  },
+  {
+    "name": "Beach Premium House",
+    "price": "520 000",
+    "details": "674 Princess Anne Rd, Virginia Beach, VA 23457, USA",
+    "image": "https://archello.s3.eu-central-1.amazonaws.com/images/2018/10/11/Contemporary-Modern-House-Design-6.1539270983.8601.jpg"
+  }
+]
